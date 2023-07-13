@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Exonl/Desktop/ExoticCrosshair/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe -IC:/Users/Exonl/Desktop/ExoticCrosshair/include -g -o CMakeFiles\\exocross.dir\\src\\main.cpp.obj -c C:\\Users\\Exonl\\Desktop\\ExoticCrosshair\\src\\main.cpp",
+  "file": "C:\\Users\\Exonl\\Desktop\\ExoticCrosshair\\src\\main.cpp",
+  "output": "CMakeFiles\\exocross.dir\\src\\main.cpp.obj"
+}
+]

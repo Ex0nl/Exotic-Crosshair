@@ -1,0 +1,3 @@
+C:/Users/Exonl/Desktop/ExoticCrosshair/build/CMakeFiles/exocross.dir
+C:/Users/Exonl/Desktop/ExoticCrosshair/build/CMakeFiles/edit_cache.dir
+C:/Users/Exonl/Desktop/ExoticCrosshair/build/CMakeFiles/rebuild_cache.dir
